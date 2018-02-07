@@ -8,16 +8,27 @@ The telegram chatbot is available at link @trentinoskibot.
 
 
 # telegrambot
+// description how flows works
+[Javadoc](telegrambot-doc/index.html)
 
-[Javadocs](telegrambot-doc/index.html)
+# RecombeeFacadeService
+
+[Javadoc](recombee-facade-doc/index.html)
 
 # BotUserStorageService
 
-[Javadocs](buss-docs/index.html)
+// sample xml bot user
+[Javadoc](buss-doc/index.html)
 
-# ItemStorageService  
+# ItemStorageService 
+ 
+// sample ski resort item 
+[Javadoc](iss-doc/index.html)
 
-[Javadocs](iss-docs/index.html)
+# skimap-crawler
+
+//sample xml list and json
+
 
 
 
