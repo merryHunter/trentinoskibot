@@ -1,6 +1,6 @@
 ## Index page of all documentation
 
-The telegram chatbot is available at link @trentinoskibot. 
+The telegram chatbot is available at link [@trentinoskibot](https://telegram.me/trentinoskibot). 
 
 #### General Web services composition
 ![alt text](architecture.svg "Web services deployment")
