@@ -1,0 +1,52 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="48.333313" width="168.666633" y="22" x="70.833398" stroke-width="1.5" stroke="#000" fill="#429aed"/>
+  <rect id="svg_2" height="55" width="141" y="328.000268" x="403.834299" stroke-width="1.5" stroke="#000" fill="#ff7f00"/>
+  <rect id="svg_3" height="55" width="167.666728" y="253.333205" x="24.49994" stroke-width="1.5" stroke="#000" fill="#ffff56"/>
+  <rect id="svg_4" height="55" width="203.000172" y="95.999935" x="174.833163" stroke-width="1.5" stroke="#000" fill="#65f265"/>
+  <rect id="svg_5" height="55" width="141" y="254.000206" x="403.833337" stroke-width="1.5" stroke="#000" fill="#ffaa56"/>
+  <rect id="svg_6" height="55" width="153.666708" y="253.666511" x="204.833183" stroke-width="1.5" stroke="#000" fill="#ffff56"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="51.666668" x="94.50005" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">telegrambot</text>
+  <rect id="svg_9" height="34.333277" width="89.666514" y="204.666897" x="429.500519" stroke-width="1.5" stroke="#000" fill="#56ffff"/>
+  <rect id="svg_10" height="24.666734" width="64.000173" y="161.333219" x="439.667087" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#aaffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="11" id="svg_12" y="174.666589" x="444.333767" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">skimap.org</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="11" id="svg_13" y="223.333386" x="435.000408" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">skimap-crawler</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_14" y="284.666885" x="429.66706" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Recombee API</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_15" y="343.333711" x="425.000381" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Recombee DB</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_16" y="281.333543" x="30.332645" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">BotUserStorageService</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_17" y="280.000206" x="219.666491" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">ItemStorageService</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_20" y="127.999794" x="192.999753" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">RecombeeFacadeService</text>
+  <ellipse ry="14.333372" rx="22.000059" id="svg_50" cy="365.00097" cx="477.000433" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ff7f00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_21" y2="358.667086" x2="402.333653" y1="358.667086" x1="94.999486" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_22" y2="308.66695" x2="96.332823" y1="358.667086" x1="95.666155" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_23" y2="308.000282" x2="291.000018" y1="359.333754" x1="291.000018" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_25" y="245.333443" x="94.332814" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">SOAP</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_26" y="245.333445" x="256.999919" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">SOAP</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_27" y2="70.666286" x2="86.999464" y1="251.33344" x1="86.999464" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_28" y2="221.33338" x2="292.333355" y1="221.33338" x1="87.666133" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_29" y2="220.000043" x2="290.333349" y1="254.000135" x1="290.333349" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_30" y2="326.00033" x2="475.667185" y1="309.333619" x1="475.000517" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_31" y2="239.333429" x2="474.333848" y1="253.333467" x1="474.333848" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_32" y2="203.333331" x2="472.333843" y1="185.333282" x1="472.333843" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_33" y="132.666475" x="144.999616" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">REST</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_34" y2="69.999636" x2="146.999627" y1="120.66644" x1="146.999627" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line transform="rotate(-2.45512, 161.666, 119.666)" stroke-linecap="null" stroke-linejoin="null" id="svg_35" y2="119.999772" x2="174.999703" y1="119.333103" x1="148.332964" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_40" y2="282.66688" x2="373.666908" y1="151.999859" x1="373.00024" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_42" y2="282.000211" x2="403.66699" y1="282.000211" x1="373.00024" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_44" y="198.666652" x="479.000527" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">XML/JSON</text>
+  <ellipse ry="14.333371" rx="21.333392" id="svg_49" cy="365.00097" cx="427.000301" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ff7f00"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_45" y="368.667647" x="411.66693" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">User</text>
+  <ellipse ry="14.666706" rx="19.666719" id="svg_51" cy="365.334305" cx="523.333892" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ff7f00"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_46" y="369.334315" x="509.667196" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Item</text>
+  <text transform="matrix(0.900059, 0, 0, 1, 49.6067, 0)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_47" y="369.334315" x="454.111634" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Rating</text>
+ </g>
+</svg>
